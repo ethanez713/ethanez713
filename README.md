@@ -1,8 +1,7 @@
 ### Ethan Zhou
 
-Software engineer. I build things I want to use, mostly for phones and for my own data.
-The common thread is local-first: no accounts, no cloud, and software that says what it
-is unsure of.
+I'm literally saving DOZENS of dollars a month by vibecoding my own crap instead of paying for app subscriptions
+Please yoink/fork anything here for yourself 🤗
 
 [LinkedIn](https://www.linkedin.com/in/ethanez713/) · ethanez713@gmail.com
 
