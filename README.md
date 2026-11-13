@@ -13,19 +13,19 @@ Please yoink/fork anything here for yourself 🤗
     <td width="33%" valign="top">
       <a href="https://github.com/ethanez713/homecam"><img src="https://raw.githubusercontent.com/ethanez713/homecam/master/docs/screenshots/live.png" alt="homecam" width="200"></a><br>
       <b><a href="https://github.com/ethanez713/homecam">homecam</a></b><br>
-      Home cameras send your living room to someone else's cloud (gross, weird). This turns an  Android phone into the camera and your current one into the viewer, with nothing in between (serverless, private, nice).<br>
+      Home cameras send your living room to someone else's cloud (gross, weird). This turns an Android phone into the camera and your current one into the viewer, with nothing in between (serverless, local, nice).<br>
       <sub>Kotlin · WebRTC · on-device detection · pinned-key pairing</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/ethanez713/rotblock"><img src="https://raw.githubusercontent.com/ethanez713/rotblock/master/docs/screenshots/rules.png" alt="rotblock" width="200"></a><br>
       <b><a href="https://github.com/ethanez713/rotblock">rotblock</a></b><br>
-      You switch off your app block "for a minute" and "forget" to turn it back on for weeks. This one saves every pause as a deadline, so blocking always comes back by itself.<br>
+      You turn off your app block "for a minute" and "forget" to turn it back on for weeks. This one saves every pause as a deadline, so blocking always comes back by itself.<br>
       <sub>Kotlin · Compose · accessibility service · Room</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/ethanez713/lispr"><img src="https://raw.githubusercontent.com/ethanez713/lispr/main/docs/screenshots/dictating.png" alt="lispr" width="200"></a><br>
       <b><a href="https://github.com/ethanez713/lispr">lispr</a></b><br>
-      Phone dictation means sending your voice to a server (still gross, still werid). Lispr recognises speech and cleans it up \*\~\*on device\~\*\~.<br>
+      Phone dictation means sending your voice to a server (still gross, still werid). Lispr recognises speech and cleans it up *~*on device~*~.<br>
       <sub>Kotlin · Python · Parakeet · llama.cpp</sub>
     </td>
   </tr>
@@ -56,9 +56,9 @@ Please yoink/fork anything here for yourself 🤗
 
 <a href="https://github.com/ethanez713/spend_visualizer"><img src="https://raw.githubusercontent.com/ethanez713/spend_visualizer/main/docs/img/overview.png" alt="spend_visualizer" width="50%"></a>
 
-- **[spend_visualizer](https://github.com/ethanez713/spend_visualizer)**: Budgeting services make you pay a monthly fee. That just didn't sit right with me. This also keeps the whole pipeline on your machine: Plaid sync, an append-only ledger, rule-based categories, local dashboards. <sub>Python · DuckDB · Streamlit</sub>
+- **[spend_visualizer](https://github.com/ethanez713/spend_visualizer)**: Budgeting services make you pay a monthly fee. Huh? This one doesn't and also keeps the whole pipeline on your machine: Plaid sync, an append-only ledger, rule-based categories, local dashboards. <sub>Python · DuckDB · Streamlit</sub>
 - **[claude-code-toolkit](https://github.com/ethanez713/claude-code-toolkit)**: Long sessions fail in predictable ways. Hooks, skills and an MCP server that stop those failures and measures (or hallucinates) whether each fix worked. <sub>Python</sub>
-- **[claude-autoresume](https://github.com/ethanez713/claude-autoresume)**: 5-hour Claude rate-limits do not bother me anymore. Transcend temporal confines with automated 'resume' commands. <sub>Bash · tmux</sub>
+- **[claude-autoresume](https://github.com/ethanez713/claude-autoresume)**: 5-hour Claude rate-limits fear me. Transcend temporal confines with automated 'continue' commands. <sub>Bash · tmux</sub>
 - **[adbconnect](https://github.com/ethanez713/adbconnect)**: Android switches wireless debugging off at every reboot and Wi-Fi change. One command brings it back. <sub>Kotlin · Bash</sub>
 - **[sts2-couch-coop](https://github.com/ethanez713/sts2-couch-coop)**: Slay the Spire 2 co-op is online only. This runs it for two people on one PC, each with their own window and pointer. <sub>C# · Harmony</sub>
 
