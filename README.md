@@ -1,19 +1,10 @@
 ### Ethan Zhou
 
-I'm literally saving DOZENS of dollars a month by vibecoding my own crap instead of paying for app subscriptions
+I'm saving DOZENS of dollars a month by vibecoding my own apps instead of paying for subscriptions.
+
 Please yoink/fork anything here for yourself 🤗
 
 [LinkedIn](https://www.linkedin.com/in/ethanez713/) · ethanez713@gmail.com
-
-#### Data and tools
-
-<a href="https://github.com/ethanez713/spend_visualizer"><img src="https://raw.githubusercontent.com/ethanez713/spend_visualizer/main/docs/img/overview.png" alt="spend_visualizer" width="50%"></a>
-
-- **[spend_visualizer](https://github.com/ethanez713/spend_visualizer)**: Budgeting services make you pay a monthly fee. That just didn't sit right with me. This also keeps the whole pipeline on your machine: Plaid sync, an append-only ledger, rule-based categories, local dashboards. <sub>Python · DuckDB · Streamlit</sub>
-- **[claude-code-toolkit](https://github.com/ethanez713/claude-code-toolkit)**: Long sessions fail in predictable ways. Hooks, skills and an MCP server that stop those failures and measures (or hallucinates) whether each fix worked. <sub>Python</sub>
-- **[claude-autoresume](https://github.com/ethanez713/claude-autoresume)**: 5-hour Claude rate-limits do not bother me anymore. Transcend temporal confines with automated 'resume' commands. <sub>Bash · tmux</sub>
-- **[adbconnect](https://github.com/ethanez713/adbconnect)**: Android switches wireless debugging off at every reboot and Wi-Fi change. One command brings it back. <sub>Kotlin · Bash</sub>
-- **[sts2-couch-coop](https://github.com/ethanez713/sts2-couch-coop)**: Slay the Spire 2 co-op is online only. This runs it for two people on one PC, each with their own window and pointer. <sub>C# · Harmony</sub>
 
 #### Apps
 
@@ -59,3 +50,16 @@ Please yoink/fork anything here for yourself 🤗
     </td>
   </tr>
 </table>
+
+
+#### Data and tools
+
+<a href="https://github.com/ethanez713/spend_visualizer"><img src="https://raw.githubusercontent.com/ethanez713/spend_visualizer/main/docs/img/overview.png" alt="spend_visualizer" width="50%"></a>
+
+- **[spend_visualizer](https://github.com/ethanez713/spend_visualizer)**: Budgeting services make you pay a monthly fee. That just didn't sit right with me. This also keeps the whole pipeline on your machine: Plaid sync, an append-only ledger, rule-based categories, local dashboards. <sub>Python · DuckDB · Streamlit</sub>
+- **[claude-code-toolkit](https://github.com/ethanez713/claude-code-toolkit)**: Long sessions fail in predictable ways. Hooks, skills and an MCP server that stop those failures and measures (or hallucinates) whether each fix worked. <sub>Python</sub>
+- **[claude-autoresume](https://github.com/ethanez713/claude-autoresume)**: 5-hour Claude rate-limits do not bother me anymore. Transcend temporal confines with automated 'resume' commands. <sub>Bash · tmux</sub>
+- **[adbconnect](https://github.com/ethanez713/adbconnect)**: Android switches wireless debugging off at every reboot and Wi-Fi change. One command brings it back. <sub>Kotlin · Bash</sub>
+- **[sts2-couch-coop](https://github.com/ethanez713/sts2-couch-coop)**: Slay the Spire 2 co-op is online only. This runs it for two people on one PC, each with their own window and pointer. <sub>C# · Harmony</sub>
+
+<sub>I am become vibecoder, destroyer of SaaS</sub>
